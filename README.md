@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.240826 - Maverick Force S Spot](https://github.com/Chauvet-Pro/MAVERICKFORCESSPOT/blob/2f3b9f3bdb3a2e0f5f6f590755d48353ed83280d/firmware/V1.240826.zip)
+- Factory update - for internal use only
+
 [V1.211005 - Maverick Force S Spot](https://github.com/Chauvet-Pro/MAVERICKFORCESSPOT/blob/8d4b46c2fefd4602f71a7327703ac0c733ad3bca/firmware/V1.211005.zip)
 - Fixed issue with gobo fans
 
